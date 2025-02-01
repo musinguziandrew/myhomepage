@@ -7,7 +7,7 @@ export default function Page() {
         Musinguzi Andrew 
       </h1>
       <p className="mb-4">
-        {`Mr. Musinguzi Andrew is a Physics researcher specilizing Non Linear Optics. He is currently persuing his Masters Degree at University of Hyderabad. 
+        {`Mr. Musinguzi Andrew is a Physics researcher specilizing in Non Linear Optics. He is currently persuing his Masters Degree at University of Hyderabad. 
         His work focuses on studying how light interacts with matter. His recent project is focusing on studying the atmosphere using lasers by mimicking 
         atmospheric conditions in the laboratory using aerosols of different refractive index and properties revealing the effect of matter on light and
         vice versa, with applications in the long range space communications using Ridars and Radars. Mr. Andrew has received many Awards and scholarships
